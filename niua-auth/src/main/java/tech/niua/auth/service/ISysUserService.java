@@ -9,7 +9,7 @@ import tech.niua.auth.domain.UserDetail;
 import java.util.List;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: ISysUserService
  * @projectName niua_easy_parent
  * @description: 用户 业务层

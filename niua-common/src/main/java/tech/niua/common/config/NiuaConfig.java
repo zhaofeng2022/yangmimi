@@ -4,7 +4,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: NiuaConfig
  * @projectName niua_easy_parent
  * @description: 读取项目相关配置

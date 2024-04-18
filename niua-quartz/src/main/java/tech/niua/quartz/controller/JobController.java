@@ -18,7 +18,7 @@ import tech.niua.quartz.domain.QuartzJob;
 import tech.niua.quartz.service.IJobService;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: JobController
  * @projectName nuia-easy
  * @description: 调度控制层

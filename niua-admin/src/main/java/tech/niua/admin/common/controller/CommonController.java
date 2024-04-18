@@ -17,7 +17,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: UploadController
  * @projectName niua_easy_parent
  * @description: 通用文件上传类

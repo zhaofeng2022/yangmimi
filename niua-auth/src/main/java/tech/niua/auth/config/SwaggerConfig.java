@@ -20,7 +20,7 @@ import javax.servlet.ServletContext;
 import static springfox.documentation.builders.PathSelectors.regex;
 
 /**
- * @author Wangzhen
+ * @author :Zhaofeng
  * swagger相关配置类
  */
 @EnableSwagger2

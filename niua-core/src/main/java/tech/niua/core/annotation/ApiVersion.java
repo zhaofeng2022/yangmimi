@@ -6,7 +6,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: ApiVersion
  * @projectName niua_easy_parent
  * @description: 自定义版本控制注解

@@ -9,7 +9,7 @@ import tech.niua.common.model.ResultCode;
 import java.util.List;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: ISysResource
  * @projectName niua_easy_parent
  * @description: TODO

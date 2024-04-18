@@ -5,7 +5,7 @@ import org.springframework.context.i18n.LocaleContextHolder;
 import tech.niua.common.utils.spring.SpringUtils;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: MessageUtils
  * @projectName niua_easy_parent
  * @description: 获取i18n资源文件

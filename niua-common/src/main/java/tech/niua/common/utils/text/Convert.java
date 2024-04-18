@@ -10,7 +10,7 @@ import java.text.NumberFormat;
 import java.util.Set;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: Convert
  * @projectName niua_easy_parent
  * @description: 类型转换器

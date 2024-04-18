@@ -1,7 +1,7 @@
 package tech.niua.common.exception.file;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: InvalidExtensionException
  * @projectName niua_easy_parent
  * @description: 文件上传 误异常类

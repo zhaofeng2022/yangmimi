@@ -5,7 +5,7 @@ import java.net.InetAddress;
 import java.net.UnknownHostException;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: IpUtil
  * @projectName nuia-easy
  * @description: IpUtil

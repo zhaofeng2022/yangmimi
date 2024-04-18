@@ -1,7 +1,7 @@
 package tech.niua.common.utils.file;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: MimeTypeUtils
  * @projectName niua_easy_parent
  * @description: 媒体类型工具类

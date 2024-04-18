@@ -5,7 +5,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: AdminViewConfigProperties
  * @projectName aesthetics
  * @description: 绑定后台静态页面访问参数

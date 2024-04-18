@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * 登录身份认证
  * @author: Wangzhen
- * createAt: 2020/5/29
+ * createAt: 2024/4/18
  */
 @Component("CustomUserDetailsService")
 public class CustomUserDetailsServiceImpl implements UserDetailsService {

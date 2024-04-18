@@ -5,9 +5,9 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * @author Wangzhen
+ * @author :Zhaofeng
  * RESTful API 返回类型
- * createAt: 2020/5/29
+ * createAt: 2024/4/18
  */
 @Data
 public class ResultJson<T> implements Serializable{

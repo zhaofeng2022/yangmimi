@@ -3,8 +3,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @author Wangzhen
- * createAt: 2020/5/29
+ * @author :Zhaofeng
+ * createAt: 2024/4/18
  */
 @SpringBootApplication
 public class NiuaApplication {

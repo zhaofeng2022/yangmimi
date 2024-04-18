@@ -14,7 +14,7 @@ import tech.niua.common.model.ResultCode;
 import java.util.List;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: SysResourceServiceImpl
  * @projectName niua_easy_parent
  * @description: 权限资源服务 实现类

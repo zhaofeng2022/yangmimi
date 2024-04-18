@@ -1,7 +1,7 @@
 package tech.niua.common.exception.file;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: FileSizeLimitExceededException
  * @projectName niua_easy_parent
  * @description: 文件名大小限制异常类

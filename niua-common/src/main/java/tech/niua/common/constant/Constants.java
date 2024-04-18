@@ -1,7 +1,7 @@
 package tech.niua.common.constant;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: Constants
  * @projectName niua_easy_parent
  * @description: 通用常亮信息

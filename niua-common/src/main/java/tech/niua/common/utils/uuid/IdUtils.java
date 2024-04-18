@@ -1,7 +1,7 @@
 package tech.niua.common.utils.uuid;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: IdUtils
  * @projectName niua_easy_parent
  * @description: ID生成器工具类

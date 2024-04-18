@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 import java.time.LocalDateTime;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: MybatisObjectHandler
  * @projectName niua_easy_parent
  * @description: 自动填充，创建时间和更新时间

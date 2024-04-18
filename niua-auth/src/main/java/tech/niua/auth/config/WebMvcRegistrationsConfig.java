@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: WebMvcRegistrationsConfig
  * @projectName niua_easy_parent
  * @description: TODO

@@ -9,10 +9,10 @@ import tech.niua.common.model.ResultCode;
 import tech.niua.common.model.ResultJson;
 
 /**
- * @author Wangzhen
+ * @author :Zhaofeng
  * 异常处理类
  * controller层异常无法捕获处理，需要自己处理
- * createAt: 2020/5/29
+ * createAt: 2024/4/18
  */
 @RestControllerAdvice
 @Slf4j

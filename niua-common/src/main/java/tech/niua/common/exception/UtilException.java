@@ -1,7 +1,7 @@
 package tech.niua.common.exception;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: UtilException
  * @projectName niua_easy_parent
  * @description: 工具类异常

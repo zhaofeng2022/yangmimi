@@ -1,7 +1,7 @@
 package tech.niua.auth.common;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: UserStatus
  * @projectName niua_easy_parent
  * @description: 用户状态

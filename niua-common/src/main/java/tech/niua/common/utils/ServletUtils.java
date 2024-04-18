@@ -11,7 +11,7 @@ import javax.servlet.http.HttpSession;
 import java.io.IOException;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: ServletUtils
  * @projectName niua_easy_parent
  * @description: 客户端工具类

@@ -9,7 +9,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import tech.niua.common.config.AdminViewConfigProperties;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: WebMvcConfig
  * @projectName niua_easy_parent
  * @description: TODO

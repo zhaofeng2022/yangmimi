@@ -14,7 +14,7 @@ import java.io.PrintWriter;
 
 /**
  * @author: Wangzhen
- * createAt: 2020/5/29
+ * createAt: 2024/4/18
  */
 @Component("RestAuthenticationAccessDeniedHandler")
 public class RestAuthenticationAccessDeniedHandler implements AccessDeniedHandler {

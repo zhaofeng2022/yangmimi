@@ -14,7 +14,7 @@ import java.io.Serializable;
 
 /**
  * @author: Wangzhen
- * createAt: 2020/5/29
+ * createAt: 2024/4/18
  */
 @Component
 public class JwtAuthenticationEntryPoint implements AuthenticationEntryPoint, Serializable {

@@ -6,7 +6,7 @@ import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: CharsetKit
  * @projectName niua_easy_parent
  * @description: 字符集工具类

@@ -4,7 +4,7 @@ import tech.niua.common.utils.MessageUtils;
 import tech.niua.common.utils.StringUtils;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: BaseException
  * @projectName niua_easy_parent
  * @description: 基础异常类

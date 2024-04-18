@@ -21,7 +21,7 @@ import java.util.List;
 
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: SysUserService
  * @projectName niua_easy_parent
  * @description: 系统用户服务类

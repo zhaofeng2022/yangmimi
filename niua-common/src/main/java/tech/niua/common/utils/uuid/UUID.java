@@ -9,7 +9,7 @@ import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: UUID
  * @projectName niua_easy_parent
  * @description: 提供通用唯一识别码（universally unique identifier）（UUID）实现

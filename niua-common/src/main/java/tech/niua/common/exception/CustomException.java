@@ -4,8 +4,8 @@ import lombok.Getter;
 import tech.niua.common.model.ResultJson;
 
 /**
- * @author Wangzhen
- * createAt: 2020/5/29
+ * @author :Zhaofeng
+ * createAt: 2024/4/18
  */
 @Getter
 public class CustomException extends RuntimeException{

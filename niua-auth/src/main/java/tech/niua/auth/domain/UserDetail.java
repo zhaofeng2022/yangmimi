@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  * @author : Wangzhen
- * createAt: 2020/5/29
+ * createAt: 2024/4/18
  */
 public class UserDetail implements UserDetails {
     private long id;

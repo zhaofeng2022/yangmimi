@@ -6,7 +6,7 @@ import tech.niua.common.utils.ServletUtils;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: ServerConfig
  * @projectName niua_easy_parent
  * @description: 服务相关配置

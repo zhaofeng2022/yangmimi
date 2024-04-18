@@ -4,7 +4,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import tech.niua.auth.service.ISysUserService;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: TestupdateUserAndRole
  * @projectName niua_easy_parent
  * @description: TODO

@@ -1,9 +1,9 @@
 package tech.niua.common.model;
 
 /**
- * @author Wangzhen
+ * @author :Zhaofeng
  * 状态码
- * createAt: 2020/5/29
+ * createAt: 2024/4/18
  */
 public enum ResultCode {
     /*

@@ -3,7 +3,7 @@ package tech.niua.common.exception.file;
 import tech.niua.common.exception.BaseException;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: FileException
  * @projectName niua_easy_parent
  * @description: 文件信息异常类

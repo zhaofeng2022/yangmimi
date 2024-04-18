@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: StringUtils
  * @projectName niua_easy_parent
  * @description: 字符串工具类

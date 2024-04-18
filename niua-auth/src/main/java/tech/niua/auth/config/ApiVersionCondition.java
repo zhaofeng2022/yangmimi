@@ -7,7 +7,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: ApiVersionCondition
  * @projectName niua_easy_parent
  * @description: 针对请求与映射之间创建了判断条件。以此判断某个请求应落在哪个controller上

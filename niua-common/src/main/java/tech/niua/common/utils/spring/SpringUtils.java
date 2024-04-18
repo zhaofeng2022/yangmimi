@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 import tech.niua.common.utils.StringUtils;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: SpringUtils
  * @projectName niua_easy_parent
  * @description: spring工具类 方便在非spring管理环境中获取bean

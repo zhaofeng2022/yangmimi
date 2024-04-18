@@ -16,7 +16,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: TestGen
  * @projectName niua_easy_parent
  * @description: TODO

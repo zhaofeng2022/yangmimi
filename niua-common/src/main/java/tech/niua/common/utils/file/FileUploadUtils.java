@@ -14,7 +14,7 @@ import tech.niua.common.utils.StringUtils;
 import tech.niua.common.utils.uuid.IdUtils;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: FileUploadUtils
  * @projectName niua_easy_parent
  * @description: 文件上传工具

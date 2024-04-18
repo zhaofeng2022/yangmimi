@@ -5,8 +5,8 @@ import tech.niua.auth.domain.UserDetail;
 import org.apache.ibatis.annotations.Param;
 
 /**
- * @author Wangzhen
- * createAt: 2020/5/29
+ * @author :Zhaofeng
+ * createAt: 2024/4/18
  */
 public interface AuthMapper {
     /**

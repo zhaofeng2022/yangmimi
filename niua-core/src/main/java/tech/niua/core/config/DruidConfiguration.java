@@ -14,7 +14,7 @@ import org.springframework.context.annotation.Configuration;
 import javax.sql.DataSource;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: DruidConfiguration
  * @projectName niua_easy_parent
  * @description: Druid数据源配置

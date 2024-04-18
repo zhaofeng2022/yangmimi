@@ -22,7 +22,7 @@ import tech.niua.common.model.ResultJson;
 
 import java.util.Date;
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: AuthServiceImpl
  * @projectName niua_easy_parent
  * @description: TODO

@@ -9,7 +9,7 @@ import tech.niua.auth.domain.SysRole;
 import java.util.List;
 
 /**
- * @author wangzhen
+ * @author :Zhaofeng
  * @title: IRoleService
  * @projectName niua_easy_parent
  * @description: 用户角色接口

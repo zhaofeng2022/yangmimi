@@ -5,7 +5,7 @@ import lombok.Data;
 
 /**
  * 组织机构 对象
- * @author Wangzhen
+ * @author :Zhaofeng
  */
 @Data
 @Builder

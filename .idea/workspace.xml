@@ -5,12 +5,76 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f65fbe1-6c7b-4938-a2cf-71f8cfe8d071" name="Changes" comment="元始天尊">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/niua-admin/niua-admin.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niua-common/niua-common.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niua-core/niua-core.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niua-gen/niua-gen.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/niua-quartz/niua-quartz.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-admin/src/main/java/tech/niua/NiuaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-admin/src/main/java/tech/niua/NiuaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-admin/src/main/java/tech/niua/admin/aspect/SysLogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-admin/src/main/java/tech/niua/admin/aspect/SysLogAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-admin/src/main/java/tech/niua/admin/common/controller/CommonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-admin/src/main/java/tech/niua/admin/common/controller/CommonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-admin/src/test/java/NiuApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-admin/src/test/java/NiuApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-admin/src/test/java/TestUpdateUserAndRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-admin/src/test/java/TestUpdateUserAndRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/common/UserStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/common/UserStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/config/ApiRequestMappingHandlerMapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/config/ApiRequestMappingHandlerMapping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/config/ApiVersionCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/config/ApiVersionCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/config/JwtAuthenticationEntryPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/config/JwtAuthenticationEntryPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/config/JwtAuthenticationTokenFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/config/JwtAuthenticationTokenFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/config/RestAuthenticationAccessDeniedHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/config/RestAuthenticationAccessDeniedHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/config/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/config/WebMvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/config/WebMvcRegistrationsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/config/WebMvcRegistrationsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/controller/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/controller/RoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/domain/ResponseUserToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/domain/ResponseUserToken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/domain/SysOrganization.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/domain/SysOrganization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/domain/SysResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/domain/SysResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/domain/SysRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/domain/SysRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/domain/SysUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/domain/SysUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/domain/UserDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/domain/UserDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/exception/DefaultExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/exception/DefaultExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/mapper/AuthMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/mapper/AuthMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/service/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/service/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/service/IRoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/service/IRoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/service/ISysResourceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/service/ISysResourceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/service/ISysUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/service/ISysUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/service/impl/AuthServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/service/impl/AuthServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/service/impl/CustomUserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/service/impl/CustomUserDetailsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/service/impl/RoleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/service/impl/RoleServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/service/impl/SysResourceServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/service/impl/SysResourceServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/service/impl/SysUserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/service/impl/SysUserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/utils/JwtUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-auth/src/main/java/tech/niua/auth/utils/JwtUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/config/AdminViewConfigProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/config/AdminViewConfigProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/config/NiuaConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/config/NiuaConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/constant/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/constant/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/exception/BaseException.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/exception/BaseException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/exception/CustomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/exception/CustomException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/exception/UtilException.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/exception/UtilException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/exception/file/FileException.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/exception/file/FileException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/exception/file/FileNameLengthLimitExceededException.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/exception/file/FileNameLengthLimitExceededException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/exception/file/FileSizeLimitExceededException.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/exception/file/FileSizeLimitExceededException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/exception/file/InvalidExtensionException.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/exception/file/InvalidExtensionException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/model/ResultCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/model/ResultCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/model/ResultJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/model/ResultJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/DateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/DateUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/IpUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/IpUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/MessageUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/MessageUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/ServletUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/ServletUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/StrFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/StrFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/StringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/file/FileUploadUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/file/FileUploadUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/file/MimeTypeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/file/MimeTypeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/spring/SpringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/spring/SpringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/text/CharsetKit.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/text/CharsetKit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/text/Convert.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/text/Convert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/uuid/IdUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/uuid/IdUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/uuid/UUID.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-common/src/main/java/tech/niua/common/utils/uuid/UUID.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-core/src/main/java/tech/niua/core/annotation/ApiVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-core/src/main/java/tech/niua/core/annotation/ApiVersion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-core/src/main/java/tech/niua/core/aspect/NoRepeatSubmitAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-core/src/main/java/tech/niua/core/aspect/NoRepeatSubmitAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-core/src/main/java/tech/niua/core/config/DruidConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-core/src/main/java/tech/niua/core/config/DruidConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-core/src/main/java/tech/niua/core/config/MybatisObjectHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-core/src/main/java/tech/niua/core/config/MybatisObjectHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-core/src/main/java/tech/niua/core/config/ServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-core/src/main/java/tech/niua/core/config/ServerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-core/src/main/java/tech/niua/core/model/PageResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-core/src/main/java/tech/niua/core/model/PageResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-gen/src/test/java/tech/niua/gen/GenApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-gen/src/test/java/tech/niua/gen/GenApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-gen/src/test/java/tech/niua/gen/TestGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-gen/src/test/java/tech/niua/gen/TestGen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-quartz/src/main/java/tech/niua/quartz/controller/JobController.java" beforeDir="false" afterPath="$PROJECT_DIR$/niua-quartz/src/main/java/tech/niua/quartz/controller/JobController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +108,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -84,7 +151,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713448212245</updated>
       <workItem from="1713448213436" duration="2377000" />
-      <workItem from="1713452658900" duration="62000" />
+      <workItem from="1713452658900" duration="376000" />
     </task>
     <task id="LOCAL-00001" summary="元始天尊">
       <created>1713448850898</created>
@@ -107,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713450295288</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="元始天尊">
+      <created>1713452887658</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713452887658</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
