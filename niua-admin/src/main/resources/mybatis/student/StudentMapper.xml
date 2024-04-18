@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="tech.niua.admin.student.mapper.StudentMapper">
+    <resultMap id="BaseResultMap" type="tech.niua.admin.student.domain.Student">
+            <id column="id" jdbcType="INTEGER" property="id" />
+            <id column="name" jdbcType="VARCHAR" property="name" />
+            <id column="sex" jdbcType="VARCHAR" property="sex" />
+            <id column="age" jdbcType="VARCHAR" property="age" />
+            <id column="classid" jdbcType="INTEGER" property="classid" />
+            <id column="school" jdbcType="VARCHAR" property="school" />
+            <id column="nianji" jdbcType="VARCHAR" property="nianji" />
+            <id column="state" jdbcType="VARCHAR" property="state" />
+            <id column="time" jdbcType="TIMESTAMP" property="time" />
+            <id column="leibie" jdbcType="VARCHAR" property="leibie" />
+            <id column="phone" jdbcType="BIGINT" property="phone" />
+            <id column="code" jdbcType="BIGINT" property="code" />
+            <id column="suoshu" jdbcType="VARCHAR" property="suoshu" />
+    </resultMap>
+    <sql id="Base_Column_List">
+        id, name, sex, age, classid, school, nianji, state, time, leibie, phone, code, suoshu
+    </sql>
+    <!--注意:在打开下面注释的时候，在执行添加和更新操作时，一定要添加事物，否则会造成无法添加和更新-->
+    <!--
+ <select id="selectByPrimaryKey" parameterType="java.lang.Long" resultMap="BaseResultMap">
+    select
+    <include refid="Base_Column_List" />
+    from student
+       where id = #{id,jdbcType=INTEGER}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Long">
+    delete from  student
+       where id = #{id,jdbcType=INTEGER}
+  </delete>
+  <insert id="insert" parameterType="tech.niua.admin.student.domain.Student">
+    insert into student (id, name, sex, age, classid, school, nianji, state, time, leibie, phone, code, suoshu)
+    values (
+         name = #{name,jdbcType=VARCHAR},
+         sex = #{sex,jdbcType=VARCHAR},
+         age = #{age,jdbcType=VARCHAR},
+         classid = #{classid,jdbcType=INTEGER},
+         school = #{school,jdbcType=VARCHAR},
+         nianji = #{nianji,jdbcType=VARCHAR},
+         state = #{state,jdbcType=VARCHAR},
+         time = #{time,jdbcType=TIMESTAMP},
+         leibie = #{leibie,jdbcType=VARCHAR},
+         phone = #{phone,jdbcType=BIGINT},
+         code = #{code,jdbcType=BIGINT},
+         suoshu = #{suoshu,jdbcType=VARCHAR}
+    )
+  </insert>
+  <insert id="insertSelective" parameterType="tech.niua.admin.student.domain.Student">
+    insert into student
+    <trim prefix="(" suffix=")" suffixOverrides=",">
+      <if test="id != null">
+        id,
+      </if>
+      <if test="name != null">
+        name,
+      </if>
+      <if test="sex != null">
+        sex,
+      </if>
+      <if test="age != null">
+        age,
+      </if>
+      <if test="classid != null">
+        classid,
+      </if>
+      <if test="school != null">
+        school,
+      </if>
+      <if test="nianji != null">
+        nianji,
+      </if>
+      <if test="state != null">
+        state,
+      </if>
+      <if test="time != null">
+        time,
+      </if>
+      <if test="leibie != null">
+        leibie,
+      </if>
+      <if test="phone != null">
+        phone,
+      </if>
+      <if test="code != null">
+        code,
+      </if>
+      <if test="suoshu != null">
+        suoshu,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides=",">
+      <if test="name != null">
+        name = #{name,jdbcType=VARCHAR},
+      </if>
+      <if test="sex != null">
+        sex = #{sex,jdbcType=VARCHAR},
+      </if>
+      <if test="age != null">
+        age = #{age,jdbcType=VARCHAR},
+      </if>
+      <if test="classid != null">
+        classid = #{classid,jdbcType=INTEGER},
+      </if>
+      <if test="school != null">
+        school = #{school,jdbcType=VARCHAR},
+      </if>
+      <if test="nianji != null">
+        nianji = #{nianji,jdbcType=VARCHAR},
+      </if>
+      <if test="state != null">
+        state = #{state,jdbcType=VARCHAR},
+      </if>
+      <if test="time != null">
+        time = #{time,jdbcType=TIMESTAMP},
+      </if>
+      <if test="leibie != null">
+        leibie = #{leibie,jdbcType=VARCHAR},
+      </if>
+      <if test="phone != null">
+        phone = #{phone,jdbcType=BIGINT},
+      </if>
+      <if test="code != null">
+        code = #{code,jdbcType=BIGINT},
+      </if>
+      <if test="suoshu != null">
+        suoshu = #{suoshu,jdbcType=VARCHAR},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="tech.niua.admin.student.domain.Student">
+    update student
+    <set>
+       <if test="name != null">
+         name = #{name,jdbcType=VARCHAR},
+      </if>
+       <if test="sex != null">
+         sex = #{sex,jdbcType=VARCHAR},
+      </if>
+       <if test="age != null">
+         age = #{age,jdbcType=VARCHAR},
+      </if>
+       <if test="classid != null">
+         classid = #{classid,jdbcType=INTEGER},
+      </if>
+       <if test="school != null">
+         school = #{school,jdbcType=VARCHAR},
+      </if>
+       <if test="nianji != null">
+         nianji = #{nianji,jdbcType=VARCHAR},
+      </if>
+       <if test="state != null">
+         state = #{state,jdbcType=VARCHAR},
+      </if>
+       <if test="time != null">
+         time = #{time,jdbcType=TIMESTAMP},
+      </if>
+       <if test="leibie != null">
+         leibie = #{leibie,jdbcType=VARCHAR},
+      </if>
+       <if test="phone != null">
+         phone = #{phone,jdbcType=BIGINT},
+      </if>
+       <if test="code != null">
+         code = #{code,jdbcType=BIGINT},
+      </if>
+       <if test="suoshu != null">
+         suoshu = #{suoshu,jdbcType=VARCHAR},
+      </if>
+    </set>
+       where id = #{id,jdbcType=INTEGER}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="tech.niua.admin.student.domain.Student">
+    update student
+    set
+        name = #{name,jdbcType=VARCHAR},
+        sex = #{sex,jdbcType=VARCHAR},
+        age = #{age,jdbcType=VARCHAR},
+        classid = #{classid,jdbcType=INTEGER},
+        school = #{school,jdbcType=VARCHAR},
+        nianji = #{nianji,jdbcType=VARCHAR},
+        state = #{state,jdbcType=VARCHAR},
+        time = #{time,jdbcType=TIMESTAMP},
+        leibie = #{leibie,jdbcType=VARCHAR},
+        phone = #{phone,jdbcType=BIGINT},
+        code = #{code,jdbcType=BIGINT},
+        suoshu = #{suoshu,jdbcType=VARCHAR},
+       where id = #{id,jdbcType=INTEGER}
+  </update>
+-->
+</mapper>

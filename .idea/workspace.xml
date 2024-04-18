@@ -1,85 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f65fbe1-6c7b-4938-a2cf-71f8cfe8d071" name="Changes" comment="元始天尊">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/assets/barlogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/assets/login/login.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/assets/login/login_ico.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/components/Error/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/components/Hamburger/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/components/Index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/components/Login.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/components/Menu.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/components/Upload/MultiUpload.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/components/Upload/demo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/components/Upload/upload.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/components/charts/Echarts.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/components/kong/Redirect.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/components/pagination/pagination.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/directives/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/layout/components/AppMain.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/layout/components/Navbar.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/layout/components/Sidebar/FixiOSBug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/layout/components/Sidebar/Item.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/layout/components/Sidebar/Link.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/layout/components/Sidebar/Logo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/layout/components/Sidebar/SidebarItem.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/layout/components/Sidebar/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/layout/components/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/layout/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/layout/mixin/ResizeHandler.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/plugins/axios.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/plugins/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/plugins/element.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/router/constRouters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/router/router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/settings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/store/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/store/getters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/store/modules/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/store/modules/settings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/styles/btn.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/styles/common.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/styles/element-ui.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/styles/element-variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/styles/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/styles/mixin.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/styles/sidebar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/styles/transition.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/styles/variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/utils/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/utils/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/utils/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/utils/validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/views/403.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/views/404.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/views/analysis/Analysis.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/views/auth/Resource.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/views/auth/Role.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/views/auth/User.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/views/commons/Upload.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/views/example/TabsPages.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/views/example/tabsComponents/tab1.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/views/example/tabsComponents/tables/table1.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/views/generator/Generator.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/views/job/Job.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/views/log/SysOperLog.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/src/views/student/Student.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy-backend-ui/vue.config.js" afterDir="false" />
-    </list>
+    <list default="true" id="9f65fbe1-6c7b-4938-a2cf-71f8cfe8d071" name="Changes" comment="元始天尊" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713448212245</updated>
-      <workItem from="1713448213436" duration="1044000" />
+      <workItem from="1713448213436" duration="1434000" />
     </task>
     <task id="LOCAL-00001" summary="元始天尊">
       <created>1713448850898</created>
@@ -135,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713448850898</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="元始天尊">
+      <created>1713450148593</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713450148593</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
