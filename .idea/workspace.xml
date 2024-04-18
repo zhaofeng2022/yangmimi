@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f65fbe1-6c7b-4938-a2cf-71f8cfe8d071" name="Changes" comment="元始天尊" />
+    <list default="true" id="9f65fbe1-6c7b-4938-a2cf-71f8cfe8d071" name="Changes" comment="元始天尊">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-admin/niua-admin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-common/niua-common.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-core/niua-core.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-gen/niua-gen.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/niua-quartz/niua-quartz.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +26,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="G:\maven\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2fHBdlkzbymG9zcsfHJfAe6NIu5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -36,6 +50,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -46,6 +66,15 @@
       <recent name="H:\yangmi" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="NiuaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="niua-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tech.niua.NiuaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,6 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713448212245</updated>
       <workItem from="1713448213436" duration="2377000" />
+      <workItem from="1713452658900" duration="62000" />
     </task>
     <task id="LOCAL-00001" summary="元始天尊">
       <created>1713448850898</created>
@@ -99,6 +129,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
